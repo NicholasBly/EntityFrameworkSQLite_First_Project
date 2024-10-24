@@ -9,5 +9,5 @@ EFSQLiteSample is a simple console application I made to demonstrate the use of 
 
 ### Built With:
 - [.NET 6.0 SDK or later](https://dotnet.microsoft.com/download)
-- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or any compatible IDE
-- [SQLite](https://www.sqlite.org/download.html) (automatically included with EF Core)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
+- [SQLite](https://www.sqlite.org/download.html)
